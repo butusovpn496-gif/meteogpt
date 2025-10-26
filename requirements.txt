@@ -1,8 +1,11 @@
 streamlit
 langchain
-openai
+langchain-openai
 langchain_community
-langchain-core
 faiss-cpu
+langchain-core
 python-dotenv
+pymupdf
 pypdf
+pdf2image
+pillow
