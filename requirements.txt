@@ -1,12 +1,7 @@
 streamlit
 langchain
-langchain-openai
-langchain_community
-langchain-hub
-faiss-cpu
+langchain-community
 langchain-core
-python-dotenv
-pymupdf
-pypdf
-pdf2image
-pillow
+langchain-hub
+openai
+tiktoken
