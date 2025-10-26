@@ -20,7 +20,7 @@ vector_store = FAISS(
     index_to_docstore_id={},
 )
 
-from langchain-hub import hub
+from langchain_hub import hub
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
