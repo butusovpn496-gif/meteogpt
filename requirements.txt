@@ -2,6 +2,7 @@ streamlit
 langchain
 langchain-openai
 langchain_community
+langchain-hub
 faiss-cpu
 langchain-core
 python-dotenv
